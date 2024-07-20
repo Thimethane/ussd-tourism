@@ -1,0 +1,1 @@
+web: java -jar target/ussd-tourism-1.0-SNAPSHOT.jar
